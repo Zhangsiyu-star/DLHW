@@ -5,4 +5,4 @@ pytorch
 numpy  
 torchvision   
 介绍   
-通过卷积层和全连接层，可以实现单任务以及多任务分类
+实现了FS2K数据集上的单任务和多任务分类
